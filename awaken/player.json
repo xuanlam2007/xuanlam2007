@@ -2,7 +2,7 @@
   "login": "xuanlam2007",
   "level": 9,
   "overall": "A",
-  "overallPercentile": 0.8948924300970776,
+  "overallPercentile": 0.8965212958005866,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 717,
+      "value": 720,
       "rank": "S",
-      "percentile": 0.9581486359047072
+      "percentile": 0.9583908366284679
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 6,
+      "value": 7,
       "rank": "B",
-      "percentile": 0.7983218874983922
+      "percentile": 0.8495905783669857
     },
     {
       "code": "LUK",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 717
+      "value": 720
     },
     {
       "id": "unbroken",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 6
+      "value": 7
     },
     {
       "id": "raider",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 0
+      "value": 2
     },
     {
       "id": "boss-slayer",
@@ -168,16 +168,21 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "collector",
       "tier": 0,
-      "value": 0
+      "value": 2
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-15",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-14",
         "cleared": 0,
@@ -187,10 +192,13 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 0,
+    "questsDone": 2,
     "bosses": [],
-    "escapes": 0,
-    "kinds": []
+    "escapes": 1,
+    "kinds": [
+      "contribute",
+      "average"
+    ]
   },
-  "syncedAt": "2026-10-15T06:21:46.351Z"
+  "syncedAt": "2026-10-15T20:17:12.042Z"
 }

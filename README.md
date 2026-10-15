@@ -24,12 +24,12 @@
 
 <p align="center">
 <a href="https://github.com/xuanlam2007/auto-dkmh-hanu"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-1-light.svg"><img src="awaken/spotlight-1-dark.svg" width="49%" alt="xuanlam2007/auto-dkmh-hanu"></picture></a>
-<a href="https://github.com/xuanlam2007/viet_cho_mua_ha_cuoi"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-2-light.svg"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="xuanlam2007/viet_cho_mua_ha_cuoi"></picture></a>
+<a href="https://github.com/xuanlam2007/quant-workspace"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-2-light.svg"><img src="awaken/spotlight-2-dark.svg" width="49%" alt="xuanlam2007/quant-workspace"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/xuanlam2007/RPGAttackSystem"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-3-light.svg"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="xuanlam2007/RPGAttackSystem"></picture></a>
-<a href="https://github.com/xuanlam2007/quant-workspace"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-4-light.svg"><img src="awaken/spotlight-4-dark.svg" width="49%" alt="xuanlam2007/quant-workspace"></picture></a>
+<a href="https://github.com/xuanlam2007/viet_cho_mua_ha_cuoi"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-3-light.svg"><img src="awaken/spotlight-3-dark.svg" width="49%" alt="xuanlam2007/viet_cho_mua_ha_cuoi"></picture></a>
+<a href="https://github.com/xuanlam2007/RPGAttackSystem"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/spotlight-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/spotlight-4-light.svg"><img src="awaken/spotlight-4-dark.svg" width="49%" alt="xuanlam2007/RPGAttackSystem"></picture></a>
 </p>
 
 <p align="center">
