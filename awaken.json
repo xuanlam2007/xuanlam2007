@@ -1,0 +1,24 @@
+{
+  "username": "xuanlam2007",
+  "layout": "default",
+  "theme": "solo_leveling",
+  "title": "auto",
+  "activity": "raid",
+  "icons": "rune",
+  "motion": "full",
+  "timezone": "Asia/Bangkok",
+  "arsenal": [
+    "typescript",
+    "javascript",
+    "cplusplus",
+    "python",
+    "kotlin",
+    "css",
+    "tailwindcss",
+    "react",
+    "nextdotjs",
+    "vite",
+    "json",
+    "yaml"
+  ]
+}
