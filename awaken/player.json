@@ -158,12 +158,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 26
+      "value": 27
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 2,
@@ -302,8 +307,9 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 26,
+    "questsDone": 27,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19"
     ],
@@ -318,5 +324,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-06T22:00:29.340Z"
+  "syncedAt": "2026-11-07T20:49:35.303Z"
 }
