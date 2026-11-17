@@ -58,7 +58,7 @@
 <path d="M458.4 65H499V89.6L493.6 95H453V70.4Z" fill="none" stroke="#ffc53d" stroke-width="2"/><path d="M459.5 68.5H495.5V88.5L492.5 91.5H456.5V71.5Z" fill="none" stroke="#ffc53d" stroke-width="1"/>
 <text x="476" y="87.2" class="rank" fill="#ffc53d" text-anchor="middle">S</text>
 
-</g><text x="510" y="70" class="label" fill="#8a9bc0">STR</text><text x="510" y="88" class="value" fill="#e6edf7">721</text><text x="510" y="103" class="code" fill="#8a9bc0">TOP 4.2%</text>
+</g><text x="510" y="70" class="label" fill="#8a9bc0">STR</text><text x="510" y="88" class="value" fill="#e6edf7">722</text><text x="510" y="103" class="code" fill="#8a9bc0">TOP 4.1%</text>
 <g>
 
 <path d="M582 64H624V90L618 96H576V70Z" fill="#060a14"/>
@@ -74,12 +74,12 @@
 
 </g><text x="758" y="70" class="label" fill="#8a9bc0">INT</text><text x="758" y="88" class="value" fill="#e6edf7">1</text><text x="758" y="103" class="code" fill="#8a9bc0">TOP 21%</text>
 <g>
-
+<g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#d77bff" stroke-width="3"/></g>
 <path d="M458 128H500V154L494 160H452V134Z" fill="#060a14"/>
-<path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#8a86ff" stroke-width="2"/>
-<text x="476" y="151.2" class="rank" fill="#8a86ff" text-anchor="middle">B</text>
+<path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#d77bff" stroke-width="2"/>
+<text x="476" y="151.2" class="rank" fill="#d77bff" text-anchor="middle">A</text>
 
-</g><text x="510" y="134" class="label" fill="#8a9bc0">VIT</text><text x="510" y="152" class="value" fill="#e6edf7">7</text><text x="510" y="167" class="code" fill="#8a9bc0">TOP 15%</text>
+</g><text x="510" y="134" class="label" fill="#8a9bc0">VIT</text><text x="510" y="152" class="value" fill="#e6edf7">8</text><text x="510" y="167" class="code" fill="#8a9bc0">TOP 11%</text>
 <g>
 <g class="fx-a" filter="url(#fx-blur)" opacity="0.75"><path d="M582.4 129H623V153.6L617.6 159H577V134.4Z" fill="none" stroke="#d77bff" stroke-width="3"/></g>
 <path d="M582 128H624V154L618 160H576V134Z" fill="#060a14"/>
@@ -94,5 +94,5 @@
 <text x="724" y="151.2" class="rank" fill="#7b8496" text-anchor="middle">E</text>
 
 </g><text x="758" y="134" class="label" fill="#8a9bc0">CHA</text><text x="758" y="152" class="value" fill="#e6edf7">0</text><text x="758" y="167" class="code" fill="#8a9bc0">TOP 100%</text>
-<text x="820" y="226" class="code" fill="#8a9bc0" text-anchor="end">@xuanlam2007 · SYNCED 2026-11-15</text>
+<text x="820" y="226" class="code" fill="#8a9bc0" text-anchor="end">@xuanlam2007 · SYNCED 2026-11-17</text>
 </svg>
