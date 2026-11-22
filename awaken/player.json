@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-22T22:24:41.649Z"
+    },
+    {
       "kind": "stat",
       "subject": "VIT",
       "from": "B",
@@ -165,8 +172,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 49
+      "tier": 1,
+      "value": 51
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-21",
         "cleared": 2,
@@ -385,7 +397,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 49,
+    "questsDone": 51,
     "bosses": [
       "2026-11-16",
       "2026-11-09",
@@ -404,5 +416,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-21T22:08:48.504Z"
+  "syncedAt": "2026-11-22T22:24:41.649Z"
 }
